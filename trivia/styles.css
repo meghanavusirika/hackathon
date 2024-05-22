@@ -1,0 +1,12 @@
+body {
+  background-image: url("assets/hero-bio.jpeg");
+  background-size: cover;
+  background-position: center top;
+}
+
+.hero--title h1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-size: 50px;
+}/*# sourceMappingURL=styles.css.map */
