@@ -4,9 +4,25 @@ body {
   background-position: center top;
 }
 
-.hero--title h1 {
+h1 {
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   font-size: 50px;
 }/*# sourceMappingURL=styles.css.map */
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    margin: 20px 0; 
+  }
+  
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
